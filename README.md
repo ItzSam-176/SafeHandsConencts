@@ -1,2 +1,2 @@
-# SafeHandsConencts
+# SafeHandsConnects
 Academic Project
